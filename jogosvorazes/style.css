@@ -1,7 +1,8 @@
 @charset "UTP-8";
 body{
-    background-color: black;
+    background-color: #251f21;
     color: white;
+    text-align: center;
 }
 iframe{
     width: 500px;
